@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940849602263",
+    "project_id": "sahypam-28b57",
+    "storage_bucket": "sahypam-28b57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940849602263:android:8b235a6ac5d44606b15a92",
+        "android_client_info": {
+          "package_name": "com.example.sahypam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBAp1ywi6kFmocJ6GWXQ9mJewigEmGY1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
